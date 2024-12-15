@@ -14,7 +14,7 @@ Este proyecto es una implementación del Reto 4 del curso Código Samurái, que 
 
 1. Clona este repositorio:
    ```bash
-   git clone [URL de tu repositorio]
+   git clone https://github.com/VegetinES/AJAX-Reto.git
    ```
 
 2. Abre el archivo `ajax.html` en tu navegador web preferido.
